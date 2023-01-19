@@ -1,0 +1,1192 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+section{
+    margin-bottom:60px;
+}
+.one{
+    background-image: url(../../assets/images/navbackground.png);
+}
+.three , .one{
+    background-color:  #e3ebf1;
+     width: 100%;
+    height: 100vh;
+    
+   
+    
+}
+.navbar{
+    background-color:  #e3ebf1 ;
+   
+}
+
+/* .navbar-toggler {
+   
+    background-color:blue;
+    border: 1px solid white;
+   
+} */
+
+
+.navbar-nav .nav-link
+{ 
+    color: midnightblue !important;
+    font-weight:900 !important;
+}
+.navbar-nav {
+   
+    justify-content: flex-end;
+    width: 100%;
+   }
+.btnnav{
+   width: 130px;
+  }
+.navbar-brand{
+    position: relative;
+    left:150px;
+    color: rgb(11, 11, 44) !important;
+    font-size: 30px !important;
+    font-weight:1000 !important;
+   
+}
+
+
+.corona{
+    position: relative;
+    left:50px;
+    top:120px;
+    color:#50658e ;
+    font-size: 90px;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ .cv{
+    position: relative;
+    left:410px;
+    top:5px;
+    font-size: 30px;
+    font-weight:100 ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.covid{
+      color:rgb(231, 83, 83) ;
+   
+}
+.virus{
+       color:#50658e ;
+   
+}
+.auto{
+    width: 120%;
+    height: 15%;
+    position: relative;
+    left:5px;
+    top:80px;
+    font-size: 22px;
+    font-weight:20px ;
+}
+.btnstyle{
+    font-size: 20px;
+    border-radius: 30px;
+    font-weight:bold ;
+    margin-bottom:20px ;
+}
+.protect{
+    position: relative;
+    left:50px;
+    top:100px;
+    width: 230px;
+    height: 50px;
+   
+}
+.aboutcorona{
+    font-size: 20px;
+    position: relative;
+    left:90px;
+    top:110px;
+    font-weight:bold ;
+}
+
+.numword{
+    display: inline-block;
+    position: relative;
+    left:20px;
+    top:120px;
+    margin-left: 30px;
+    
+    color: gray;
+    font-size:15px;
+}
+.number .numword .nums{
+    
+     color:#50658e  ;
+     font-size: 30px;
+    
+     font-weight:bold ;
+}
+
+.img {
+    width: 50%;
+    height: 50%;
+}
+.img img{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    top:140px;
+}
+/* ============================== */
+
+.two{
+    height: 100vh;
+}
+.head1{
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 40px;
+}
+.head2{
+ color:#2e4064 ;
+}
+.head4{
+    font-size: 20px;
+}
+.par{
+    color: gray;
+    width: 90%;
+   font-size: 16px;
+   margin-top: 10px;
+}
+
+.tableheader, .text2{
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+table{
+    
+    width: 90%;
+     box-shadow:10px 10px  10px gray ;
+ 
+ }
+ tr , td{
+     border: 1px solid rgb(180, 175, 175);
+        padding: 17px;
+ }
+ .arrows2{
+    position:absolute;
+    right:100px;
+ }
+
+/* =============================== */
+.three{
+    height: 130vh;
+    text-align: center;
+}
+.headpar{
+
+    color: gray;
+}
+.card2{
+    height:100% !important ;
+    background-color:transparent !important;
+    border: 1px solid transparent;
+    box-shadow: none !important;
+   
+   
+}
+
+.card-body{
+   background-color: white !important;
+}
+.card-img, .card-img-bottom, .card-img-top{
+    width: 100% !important;
+    border-bottom: 4px solid rgb(0, 110, 255);
+}
+.bq{
+    position: relative;
+    top: 100px;
+    left: 270px;
+       width: 500px;
+      
+}
+/* ================ */
+.four{
+    height: 110vh;
+}
+.imgcard{
+    width: 90px !important;
+    height: 90px !important;
+    position: relative;
+    left: 50%;
+}
+
+.card3{
+    height:80% !important ;
+    width:100% !important;
+    background-color:transparent !important;
+    border: 1px solid transparent;
+    box-shadow:10px 10px  10px gray ;
+   padding-bottom: 70px;
+  margin-left: auto;
+  margin-right: auto;
+   
+}
+.par3{
+    font-size: 16px;
+    position: relative;
+    left: 40px;
+}
+.btns4{
+    height: 50px;
+       position: relative;
+    left: 100px;
+    
+}
+.ends4{
+   color: gray;
+    }
+/* ======================================== */
+ .five{
+height: 400vh;
+background-color:  #e3ebf1;
+width: 100%;
+
+}
+
+.imgcard2{
+    width: 130px !important;
+    height: 130px !important;
+  border: 1px solid rgb(161, 156, 156);
+  position:relative;
+  left: 70px;
+}
+.head5{
+    font-size:15px;
+width: 90%;
+}
+
+.aboutcorona5{
+    position: relative;
+    left: 300px;
+}
+.covids5{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.doctor{
+   width: 100%;
+    height: 150vh;
+   justify-content: space-between;
+   display: flex;
+   flex-wrap: flex;
+   
+    margin-top: 200px;
+   margin-left: auto;
+   margin-right: auto;
+      background-color:white;
+}
+.drimg{
+    width: 100% !important;
+    height: 90%;
+    margin-left: 30px;
+}
+.drimg img{
+    width: 100% !important;
+    height: 100% !important;
+}
+.advice{
+    font-style: italic;
+    font-size: 20px;
+}
+/* .steps{
+    background-color:  #e3ebf1 ;
+  
+} */
+.steps{
+text-align: center;
+margin-top: 30px;
+margin-left: auto;
+margin-right: auto;
+}
+.steps h1{
+    color: #214181;
+}
+.steps a{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+.wash{
+    width: 100%;
+    height: 100%;
+    margin-top: 70px;
+}
+.wash img{
+    width: 80%;
+    height: 50%;
+   
+}
+.wash h5{
+    margin-top: 15px;
+    font-size: 19px;
+
+}
+.none{
+    display: none;
+}
+.arrow{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    position: fixed;
+    bottom: 5%;
+    right: 5%;
+    text-align: center;
+    display: none;
+}
+.arrow i{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top:7px ;
+}
+.six{
+    background-image: url(../images/navbackground.png);
+    background-color:  #1b47a1;
+    color: white;
+    height: 90vh;
+}
+.six .head2{
+    color: aqua;
+}
+.six p{
+    color: white;
+}
+.six .card{
+    margin-top: 70px;
+}
+.six .card-body{
+   
+    background-color: rgb(22, 22, 158) !important;
+    box-shadow:10px 10px  10px gray ;
+}
+
+@media (min-width:1040px){
+    .one{
+        height: 120vh;
+    }
+    .two{
+        height: 100vh;
+    }
+
+    .three{
+        height: 130vh;
+    }}
+    .four{
+        height: 110vh;
+    }
+    .five{
+        height: 380vh;
+    }
+    
+    /* .doctor{
+        height: 340vh;
+    }
+    .drimg{height: 100%;
+
+    } */
+
+@media (max-width:1040px)
+{
+    .one{
+        
+        height: 110vh;
+      
+     
+      
+  }
+  .two{
+    height: 100vh;
+}
+.two h5{
+    font-size: 16px;
+} 
+.two .arrows2{
+    position:absolute;
+    right:50px;
+}
+
+.three{
+    height: 170vh;
+}
+.four{
+    height: 150vh;
+}
+.four button{
+    height: 90px;
+}
+.five button{
+    
+    height: 80px;
+}
+.five{
+    height: 440vh;
+}
+ 
+  .six{
+    height: 120vh;
+  }
+ 
+  .navbar-brand{
+      position: relative;
+      left:100px;
+      font-size: 30px !important;
+    
+     
+  }
+  
+  
+    .cv{
+      position: relative;
+      left:405px;
+  }
+  
+     .auto{
+     
+      height: 10%;
+  }
+  /* .protect{
+      position: relative;
+      left:50px;
+      top:100px;
+     
+  } */
+ 
+  
+  .numword{
+      
+    
+       font-size:15px;
+  }
+  .number .numword .nums{
+      
+      
+       font-size: 25px;
+  }
+  
+  /* .img {
+      width: 50%;
+      height: 50%;
+  } */
+ 
+  /* ============================== */
+  
+
+  table{
+    
+    width: 100%;
+    
+ 
+ }
+ /* ====== */
+
+ /* ================== */
+ 
+ /* =========== */
+
+  .doctor{
+   
+    height: 190vh;
+}/*
+.drimg{
+    width: 140% !important;
+    height: 110%;
+    margin-left: 30px;
+}
+.drimg img{
+    width: 140% !important;
+    height: 90% !important;
+} */
+.advice{
+   
+    font-size: 20px;
+}
+.wash h5{
+   
+    font-size: 15px;
+
+}
+   
+}
+
+        
+    
+
+@media (max-width:768px) 
+{
+    .arrow{
+        width: 90px;
+        height: 90px;
+       
+    }
+    .arrow i{
+        
+        font-size: 60px;
+       }
+    .one{
+        
+        height: 400vh;
+     width: 200%;    
+  }
+  
+  .navbar-light .navbar-toggler-icon{
+    width: 50px;
+    height: 50px;
+  }
+  .navbar-nav {
+       
+    font-size: 40px;
+    text-align: center;
+ }
+ .btnnav{
+    font-size: 35px;
+    height: 90px;
+    width: 280px;
+ }
+ 
+  .navbar-brand{
+      position: relative;
+      left:100px;
+     
+      font-size: 40px !important;
+    
+     
+  }
+  
+  
+    /* .cv{
+      position: relative;
+      left:405px;
+  } */
+  
+     .auto{
+     
+      height: 10%;
+      font-size: 40px;
+      width: 150%;
+      margin-bottom: 20px;
+  }
+  .protect{
+     font-size:40px ;
+     height: 80px;
+  }
+ 
+  .aboutcorona{
+    font-size: 50px;
+   
+    position:relative;
+    left: 180px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  .numword{
+      
+    text-align: center;
+       font-size:40px;
+       margin-top: 20px;
+  }
+  .number .numword .nums{
+    text-align: center;
+      
+       font-size: 70px;
+  }
+  
+  .img {
+    width: 100%;
+    height: 100%;
+    margin-top: 70px;
+   
+   
+}
+
+  
+  /* ============================== */
+  
+  .two{
+    height: 300vh;
+    width: 200%;    
+  } 
+.head1{
+   text-align: center;
+   font-size: 60px;
+    
+}
+.head2{
+ font-size: 50px;
+ text-align: center;
+}
+.head3{
+    font-size: 40px;
+    text-align: center;
+}
+.head4{
+    font-size: 30px;
+    text-align: center;
+}
+.par{
+   
+   font-size: 30px;
+   text-align: center;
+   position: relative;
+   left: 140px;
+     
+}
+.tableheader{
+    font-size: 50px;
+    
+}
+
+table{
+    
+    width: 60%;
+   margin-left: auto;
+   margin-right: auto;
+ }
+ .two h5{
+    font-size: 50px;
+} 
+.two .arrows2{
+    position:absolute;
+    left:1000px;
+}
+ /* =============== */
+ .three{
+    height: 400vh;
+    width: 200%;
+    text-align: center;
+}
+.pars3{
+    position:relative;
+    left: 10px;
+}
+.card-title2{
+    font-size: 30px;
+}
+.par2{
+    position: relative;
+    left:18px;
+}
+.headpar{
+   
+   font-size: 30px;
+   margin-top: 30px;
+   position:relative;
+   right:290px;
+   width: 190%;
+  
+  }
+ 
+
+/* 
+.card2{
+    height:100% !important ;
+    background-color:transparent !important;
+    border: 1px solid transparent;
+    box-shadow: none !important;
+   
+   
+} */
+
+/* .card-body{
+   background-color: white !important;
+} */
+/* .card-img, .card-img-bottom, .card-img-top{
+    width: 100% !important;
+    border-bottom: 4px solid rgb(0, 110, 255);
+} */
+.bq{
+    position: relative;
+   
+    left: 40px;
+       width: 700px;
+       font-size: 40px;
+      
+}
+
+/* ================ */
+.four{
+    height:500vh !important ;
+    width: 200%;
+}
+.four .mosala{
+    font-size: 400% !important;
+    position: relative;
+    top: 110px;
+    right: 70px;
+}
+.h2s4{
+   width: 110%;
+}
+.imgcard{
+    width: 130px !important;
+    height: 130px !important;
+    position: relative;
+    left: 70%;
+}
+
+.card3{
+    height:100% !important ;
+    width:100% !important;  
+    
+}
+.par3{
+    font-size: 40px;
+    position: relative;
+    left: 20px;
+    top: 40px;
+}
+.hcs4{
+    font-size: 40px;
+    text-align: center;
+}
+.pars4{
+    position:relative;
+    left: 30px;
+   
+}
+.btns4{
+    height: 50px;
+       position: relative;
+       top: 40px;
+       font-size: 40px;
+height: 60%;
+    
+}
+.ends4{
+    font-size: 30px;
+    margin-top: 40px;
+    width: 130%;
+}
+/* ======================================== */
+.five{
+    height: 1100vh;
+    width: 200%;
+    text-align: center;
+    
+    }
+    .card2{
+        height:110% !important ;
+        width:110% !important;  
+        
+    }
+    .imgcard2{
+        width: 200px !important;
+        height: 200px !important;
+      
+      position:relative;
+      left: 300px;
+    }
+    .head5{
+        font-size:40px;
+    width: 90%;
+    position:relative;
+    left: 100px;
+    }
+    
+    /* .aboutcorona5{
+        position: relative;
+        left: 300px;
+    } */
+    .covids5{
+        
+        font-size: 50px;
+    }
+
+    .doctor{
+        
+         height: 390vh;
+         width: 160%;
+       
+           
+     }
+    
+     .drimg img{
+         width: 130% !important;
+         height: 25% !important;
+     }
+     .advice{
+        
+         font-size: 30px;
+         width: 90%;
+         position: relative;
+         left: 40px;
+     }
+     .steps{
+        margin-top: 40px;
+     }
+    .steps h1{
+        font-size: 50px;
+    }
+    .steps a{
+        font-size: 30px;
+    }
+    
+    .wash img{
+        width: 100%;
+        height: 60%;
+       
+    }
+    .wash h5{
+        margin-top: 15px;
+        font-size: 23px;
+    
+    }
+    .six{
+        width: 200%;
+        height: 260vh;
+    }
+    .six h5{
+       font-size: 50px;
+    }
+    .six h6{
+        font-size: 30px;
+    }
+    .six p{
+       font-size: 30px;
+    }
+   
+}
+@media (max-width:600px)
+{
+    .one{
+        
+        height: 620vh;
+         width: 400%;
+    }
+    .navbar-light .navbar-toggler-icon{
+        width: 90px;
+        height: 90px;
+      }
+      
+ .navbar{
+   height: 150px;
+  
+ }
+  .navbar-nav {
+       font-size: 50px;
+       background-color:  #e3ebf1 ;
+    text-align: center;
+
+ }
+ 
+ /* .btnnav{
+    font-size: 35px;
+    height: 90px;
+    width: 280px;
+ } */
+ 
+  .navbar-brand{
+     
+     
+      font-size: 60px !important;
+    
+     
+  }
+  
+  .corona{
+    font-size: 170px;
+   
+    position:relative;
+    top: 240px;
+    left: 200px;
+  }
+    .cv{
+        font-size:90px ;
+      position: relative;
+      left:870px;
+      
+  }
+  
+     .auto{
+     
+      height: 10%;
+      font-size: 70px;
+      width: 90%;
+      margin-bottom: 40px;
+  }
+  .protect{
+     font-size:70px ;
+     height: 120px;
+     width: 80%;
+     position: relative;
+     left: 170px;
+    
+
+  }
+ 
+  .aboutcorona{
+    font-size: 70px;
+   
+    position:relative;
+    left: 530px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  .numword{
+      
+    text-align: center;
+       font-size:60px;
+       margin-top: 20px;
+  }
+  .number .numword .nums{
+    text-align: center;
+      
+       font-size: 90px;
+  }
+  
+  .img {
+      width: 100%;
+      height: 100%;
+      margin-top: 70px;
+     
+     
+  }
+  
+  /* ============================== */
+  .two{
+    height: 400vh;
+    width: 400%;    
+  } 
+.head1{
+   text-align: center;
+   font-size: 90px;
+    
+}
+.head2{
+ font-size: 70px;
+ text-align: center;
+}
+.head3{
+    font-size: 60px;
+    text-align: center;
+}
+.head4{
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.par{
+   
+   font-size: 50px;
+   text-align: center;
+  
+   
+}
+.tableheader{
+    font-size: 70px;
+    
+}
+.two table h5{
+    font-size: 50px;
+}
+.two table i{
+    display: none;
+}
+ /* =============== */
+ .three{
+    height: 900vh;
+    width: 400%;
+    text-align: center;
+}
+.headpar{
+    font-size: 60px;
+   position:relative;
+   left: 160px;
+    width: 80%;
+}
+.pars3{
+    position:relative;
+    left: 130px;
+}
+.card-title2{
+    font-size: 60px;
+}
+.par2{
+    position: relative;
+    left:68px;
+}
+
+.card2{
+   
+   width: 60%;
+   margin-left: auto;
+   margin-right: auto;
+   
+}
+
+
+.card-img, .card-img-bottom, .card-img-top{
+    width: 100% !important;
+    height: 50%;
+}
+.bq{
+    margin-left: auto;
+   margin-right: auto;
+       width: 1300px;
+       font-size: 70px;
+       height: 50%;
+      
+}
+/* ================ */
+
+.four{
+    height:700vh !important;
+    width: 400%;
+}
+.four .mosala{
+    font-size: 900% !important;
+    position: relative;
+    top: 10px;
+    right:1px;
+}
+.h2s4{
+   width: 110%;
+}
+.imgcard{
+    width: 170px !important;
+    height: 170px !important;
+    position: relative;
+    left: 70%;
+}
+
+.card3{
+    height:100% !important ;
+    width:70% !important;  
+    
+}
+.par3{
+    font-size: 40px;
+    position: relative;
+    left: 20px;
+    top: 40px;
+}
+.hcs4{
+    font-size: 60px;
+    text-align: center;
+}
+.pars4{
+    position:relative;
+    left: 30px;
+   
+}
+.btns4{
+   width: 80%;
+       position: relative;
+       top: 60px;
+       font-size: 50px;
+height: 60%;
+    
+}
+.ends4{
+font-size: 50px;
+width: 90%;
+text-align: center;
+}
+/* ======================================== */
+
+/* ======================================== */
+.five{
+    height: 2900vh;
+    width: 400%;
+    text-align: center;
+    
+    }
+    .card2{
+        height:80% !important ;
+        width:80% !important;  
+        
+    }
+    .imgcard2{
+        width: 400px !important;
+        height: 400px !important;
+      
+      position:relative;
+      left: 500px;
+    }
+    .head5{
+        font-size:90px;
+    width: 90%;
+   
+    }
+    
+    /* .aboutcorona5{
+        position: relative;
+        left: 300px;
+    } */
+    .covids5{
+        
+        font-size: 60px;
+    }
+
+    .doctor{
+        
+        height: 600vh;
+      
+          
+    }
+   
+    .drimg img{
+        width: 90% !important;
+        height: 40% !important;
+    }
+    .advice{
+       
+        font-size: 50px;
+    }
+    .steps{
+        margin-top: 150px;
+     }
+    .steps h1{
+        font-size: 70px;
+    }
+    .steps a{
+        font-size: 50px;
+    }
+    
+    .wash img{
+        width: 50%;
+        height: 50%;
+       
+    }
+    .wash h5{
+        font-size: 70px;
+    }
+    
+    .six{
+        width: 400%;
+        height: 600vh;
+    }
+    .six h5{
+       font-size: 70px;
+    }
+    .six h6{
+        font-size: 50px;
+    }
+    .six p{
+       font-size: 50px;
+    }
+   
+    .arrow{
+        width: 120px;
+        height: 120px;
+       
+    }
+    .arrow i{
+        
+        font-size: 90px;
+       }
+
+}

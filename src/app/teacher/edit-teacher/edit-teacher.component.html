@@ -1,0 +1,18 @@
+<div class="container col-6">
+    <div class="card">
+        <div class="card-body">
+            <div class="form-group">
+                <label for="" >Name</label>
+                <input type="text" class="form-control" [(ngModel)]="teacher['name']">
+            </div>
+
+            <div class="form-group">
+                <label for="" >Age</label>
+                <input type="number" class="form-control " [(ngModel)]="teacher['age']" >
+            </div>
+
+            <button (click)="editTeacher()" class="btn btn-info btn-block btn-sm" >Submit</button>
+        </div>
+    </div>
+   
+</div>
